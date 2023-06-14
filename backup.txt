@@ -49,11 +49,11 @@
 
         <h2>What We Do</h2>
 
-        <img src="images/typing.jpg" alt="Writeing HTML Cod" width="200" height="200">
+        <img src="images/typing.png" alt="Writeing HTML Cod" width="200" height="200">
 
-        <img src="images/verification.jpg" alt="Building The Interface" width="200" height="200">
+        <img src="images/verification.png" alt="Building The Interface" width="200" height="200">
 
-        <img src="images/customize.jpg" alt="Last Step: Customize It" width="200" height="200">
+        <img src="images/customize.png" alt="Last Step: Customize It" width="200" height="200">
 
         <h2>Our Team</h2>
 
