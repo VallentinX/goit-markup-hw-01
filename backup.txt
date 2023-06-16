@@ -33,13 +33,16 @@
         <div>
             <h3>ATTENTION TO DETAILS</h3>
             <p>We go into all the details and processes of your business to develop a customized solution.</p>
-
+        </div>
+        <div>
             <h3>PUNCTUALITI</h3>
             <p>With us, you can feel safe and secure. An important principle of the company: respect your time and deadlines.</p>
-
+        </div>
+        <div>
             <h3>PLANNING</h3>
             <p>You will be able to observe and participate in every phase of solution development and implementation.</p>
-
+        </div>
+        <div>
             <h3>MODERN TECHNOLOGIES</h3>
             <p>We use innovative tools to solve assigned tasks. It's time to simplify work processes.</p>
         </div>
@@ -91,7 +94,7 @@
 
         <a href="/">WebStudio</a>
          
-        <address>695 Park Ave, <abbr>NY</abbr> 10065, <abbr>USA</abbr>
+        <address>695 Park Ave, <abbr>NY</abbr> 10065, <abbr>USA</abbr><br>
             <a href="info@devstudio.com">info@devstudio.com</a><br>
             <a href="tel:+12127724150">+1 212-772-4150</a>
         </address>
